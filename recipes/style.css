@@ -1,4 +1,25 @@
+*{
+    background-color: rgb(226, 212, 212);
+}
+
 .recipe{
     width: 400px;
     height: auto;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
 }
