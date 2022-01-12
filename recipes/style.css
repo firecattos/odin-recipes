@@ -8,6 +8,10 @@
     border-radius: 8px;
 }
 
+span, .desc{
+    font-family: 'Brush Script MT', cursive;
+}
+
 h1{
     text-align: center;
 }
